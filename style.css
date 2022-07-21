@@ -1,0 +1,38 @@
+h1 {
+  font-family: "Amatic SC", courier;
+  font-size: 6em;
+  text-align: center;
+}
+
+h5 {
+  font-family: "Amatic SC", courier;
+  text-align: center;
+}
+
+p {
+  font-family: "Amatic SC", courier;
+  font-size: 3em;
+  text-align: center;
+}
+
+.cookie {
+  max-width: 100%;
+  height: auto;
+}
+.center {
+  margin: auto;
+}
+
+.box {
+  min-height: 100px;
+  background-color: #f9f9f9;
+  border: 10px solid #fff;
+  padding: 10px;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #f9f9f9;
+  align-content: center;
+}
